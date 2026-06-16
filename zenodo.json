@@ -1,10 +1,9 @@
 {
   "title": "Kings News AI Citation Tracker",
-  "description": "Track how visible your press releases are across AI platforms, search engines, and the modern discovery ecosystem. Built by KingsNews.ai powered by BHMarketer.",
+  "description": "Track how visible your press releases are across AI platforms, search engines, and the modern discovery ecosystem. Built by Kingnewswire.co.",
   "creators": [
     {
-      "name": "KingsNews.ai",
-      "affiliation": "BHMarketer"
+      "name": "Kingnewswire.co"
     }
   ],
   "keywords": [
@@ -18,7 +17,6 @@
     "Copilot",
     "content discovery",
     "Kings News",
-    "BHMarketer",
     "citation readiness"
   ],
   "license": "MIT",
@@ -32,7 +30,7 @@
       "scheme": "url"
     },
     {
-      "identifier": "https://kingsnews.ai",
+      "identifier": "https://kingnewswire.co",
       "relation": "isDocumentedBy",
       "scheme": "url"
     },
