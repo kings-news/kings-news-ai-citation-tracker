@@ -3,7 +3,7 @@
   "@type": "SoftwareApplication",
   "name": "Kings News AI Citation Tracker",
   "description": "Track how visible your press releases are across AI platforms, search engines, and the modern discovery ecosystem.",
-  "url": "https://kingsnews.ai",
+  "url": "https://kingnewswire.co",
   "applicationCategory": "BusinessApplication",
   "operatingSystem": "Any",
   "offers": {
@@ -13,8 +13,8 @@
   },
   "author": {
     "@type": "Organization",
-    "name": "KingsNews.ai powered by BHMarketer",
-    "url": "https://kingsnews.ai",
+    "name": "Kingnewswire.co",
+    "url": "https://kingnewswire.co",
     "sameAs": [
       "https://github.com/kings-news",
       "https://npmjs.com/package/@kings-news/ai-citation-tracker",
@@ -35,8 +35,7 @@
     "Gemini",
     "Copilot",
     "content discovery",
-    "Kings News",
-    "BHMarketer",
+    "Kings News"
     "citation readiness"
   ]
 }
