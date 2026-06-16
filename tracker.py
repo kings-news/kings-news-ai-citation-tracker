@@ -3,7 +3,7 @@
 Kings News AI Citation Tracker
 Track how visible your press releases are across AI platforms,
 search engines, and the modern discovery ecosystem.
-https://kingsnews.ai
+https://kingnewswire.co
 """
 
 import sys
