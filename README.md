@@ -1,7 +1,7 @@
 # Kings News AI Citation Tracker
 
 [![npm](https://img.shields.io/npm/v/@kings-news/ai-citation-tracker)](https://npmjs.com/package/@kings-news/ai-citation-tracker)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20721642.svg)](https://doi.org/10.5281/zenodo.20721642)
 
 Track how visible your press releases are across AI platforms, search engines, and the modern discovery ecosystem. Built by [Kingnewswire.co](https://kingnewswire.co/)
 
@@ -130,7 +130,7 @@ AI Citation Tracker · Press Release Visibility · AI Search · ChatGPT Citation
 | NPM | https://npmjs.com/package/@kings-news/ai-citation-tracker |
 | Hugging Face | https://huggingface.co/datasets/kings-news/ai-citation-benchmarks |
 | Kaggle | https://kaggle.com/datasets/kingsnews/ai-citation-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/20721642 |
 | Docs | https://kings-news-ai-citation-tracker.readthedocs.io |
 
 ## About Kings News
