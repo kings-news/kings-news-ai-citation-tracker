@@ -1,6 +1,6 @@
 {
   "name": "@kings-news/ai-citation-tracker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Track how visible your press releases are across AI platforms, search engines, and the modern discovery ecosystem. Powered by Kingnewswire.co",
   "main": "index.js",
   "bin": {
