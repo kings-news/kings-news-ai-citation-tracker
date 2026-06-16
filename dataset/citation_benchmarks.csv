@@ -1,0 +1,21 @@
+id,content_title,content_type,ai_citation_score,search_visibility_score,citation_readiness_score,visibility_gap_score,platform_reach_score,content_optimization_score,overall_citation_health,priority_action,chatgpt_score,google_ai_score,gemini_score,perplexity_score,copilot_score,industry,notes
+1,Tech Company Product Launch 2026,Press Release,72,65,80,55,70,60,67,Visibility Gap,72,68,65,74,63,Technology,Strong AI citation potential
+2,Healthcare Innovation Report,Article,85,78,90,70,82,75,80,Visibility Gap,85,81,77,88,75,Healthcare,High citation readiness
+3,Finance Quarterly Results,Press Release,60,55,70,45,58,50,56,Visibility Gap,60,57,54,62,53,Finance,Needs visibility improvement
+4,Startup Funding Announcement,Press Release,78,72,85,62,75,68,73,Visibility Gap,78,74,70,80,69,Technology,Good platform reach
+5,Environmental Impact Study,Report,90,85,95,80,88,82,87,Visibility Gap,90,86,81,93,79,Environment,Excellent citation health
+6,Retail Sales Data Q2,Press Release,55,50,65,40,52,45,51,Visibility Gap,55,52,50,57,48,Retail,Critical visibility gap
+7,AI Research Breakthrough,Article,88,82,92,75,85,80,84,Visibility Gap,88,84,79,91,77,Technology,Near excellent scores
+8,Legal Case Settlement,Press Release,65,60,75,50,62,55,61,Visibility Gap,65,62,59,67,57,Legal,At risk visibility
+9,Sports Event Coverage,Article,70,65,78,58,68,62,67,Visibility Gap,70,67,63,72,62,Sports,Healthy overall
+10,Celebrity Brand Launch,Press Release,75,70,82,62,72,65,71,Visibility Gap,75,71,68,77,66,Entertainment,Good citation scores
+11,Medical Research Paper,Article,92,88,97,82,90,85,89,Visibility Gap,92,87,83,95,81,Healthcare,Outstanding readiness
+12,Government Policy Update,Press Release,68,63,75,55,65,58,64,Visibility Gap,68,65,61,70,60,Government,Moderate performance
+13,Education Technology Launch,Press Release,80,75,88,68,78,72,77,Visibility Gap,80,76,72,82,70,Education,Strong scores
+14,Real Estate Market Report,Article,73,68,80,60,70,64,69,Visibility Gap,73,69,66,75,64,Real Estate,Healthy citation health
+15,Food Industry Trend Report,Article,82,77,88,70,80,74,79,Visibility Gap,82,78,74,84,72,Food,Good performance
+16,Cybersecurity Threat Report,Article,87,82,93,75,85,78,83,Visibility Gap,87,83,78,90,77,Technology,High citation potential
+17,Automotive EV Launch,Press Release,76,71,83,64,74,68,73,Visibility Gap,76,72,68,78,67,Automotive,Good visibility scores
+18,Pharmaceutical Drug Approval,Press Release,84,79,90,72,82,76,81,Visibility Gap,84,80,76,87,74,Healthcare,Strong approval coverage
+19,Nonprofit Annual Report,Report,70,65,78,58,68,62,67,Visibility Gap,70,67,63,72,62,Nonprofit,Healthy baseline
+20,Energy Sector Investment,Press Release,79,74,86,66,77,71,76,Visibility Gap,79,75,71,81,70,Energy,Strong investment coverage
