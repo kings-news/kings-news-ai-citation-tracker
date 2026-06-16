@@ -118,7 +118,7 @@ kings-news-ai-citation-tracker/
 
 ## Keywords
 
-AI Citation Tracker · Press Release Visibility · AI Search · ChatGPT Citation · Google AI Overviews · Perplexity · Gemini · Copilot · Content Discovery · Kings News · BHMarketer
+AI Citation Tracker · Press Release Visibility · AI Search · ChatGPT Citation · Google AI Overviews · Perplexity · Gemini · Copilot · Content Discovery · King News Wire
 
 ## Links
 
