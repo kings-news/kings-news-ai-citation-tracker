@@ -1,0 +1,21 @@
+site_name: Kings News AI Citation Tracker
+site_url: https://kings-news-ai-citation-tracker.readthedocs.io
+site_description: Track how visible your press releases are across AI platforms, search engines, and the modern discovery ecosystem.
+site_author: KingsNews.ai
+
+repo_name: kings-news/kings-news-ai-citation-tracker
+repo_url: https://github.com/kings-news/kings-news-ai-citation-tracker
+
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: gold
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

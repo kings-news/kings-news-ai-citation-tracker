@@ -1,0 +1,55 @@
+{
+  "title": "Kings News AI Citation Tracker",
+  "description": "Track how visible your press releases are across AI platforms, search engines, and the modern discovery ecosystem. Built by KingsNews.ai powered by BHMarketer.",
+  "creators": [
+    {
+      "name": "KingsNews.ai",
+      "affiliation": "BHMarketer"
+    }
+  ],
+  "keywords": [
+    "AI citation tracker",
+    "press release visibility",
+    "AI search",
+    "ChatGPT citation",
+    "Google AI Overviews",
+    "Perplexity",
+    "Gemini",
+    "Copilot",
+    "content discovery",
+    "Kings News",
+    "BHMarketer",
+    "citation readiness"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/kings-news/kings-news-ai-citation-tracker",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://kingsnews.ai",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@kings-news/ai-citation-tracker",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/kings-news/ai-citation-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://kaggle.com/datasets/kingsnews/ai-citation-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Kings News AI Citation Tracker",
+  "description": "Track how visible your press releases are across AI platforms, search engines, and the modern discovery ecosystem.",
+  "url": "https://kingsnews.ai",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "KingsNews.ai powered by BHMarketer",
+    "url": "https://kingsnews.ai",
+    "sameAs": [
+      "https://github.com/kings-news",
+      "https://npmjs.com/package/@kings-news/ai-citation-tracker",
+      "https://huggingface.co/datasets/kings-news/ai-citation-benchmarks",
+      "https://kaggle.com/datasets/kingsnews/ai-citation-benchmarks",
+      "https://kings-news.github.io/kings-news-ai-citation-tracker/"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/kings-news/kings-news-ai-citation-tracker",
+  "keywords": [
+    "AI citation tracker",
+    "press release visibility",
+    "AI search",
+    "ChatGPT citation",
+    "Google AI Overviews",
+    "Perplexity",
+    "Gemini",
+    "Copilot",
+    "content discovery",
+    "Kings News",
+    "BHMarketer",
+    "citation readiness"
+  ]
+}

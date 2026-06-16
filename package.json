@@ -1,0 +1,38 @@
+{
+  "name": "@kings-news/ai-citation-tracker",
+  "version": "1.0.0",
+  "description": "Track how visible your press releases are across AI platforms, search engines, and the modern discovery ecosystem. Powered by KingsNews.ai",
+  "main": "index.js",
+  "bin": {
+    "ai-citation-tracker": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ai-citation-tracker",
+    "press-release-visibility",
+    "ai-search",
+    "chatgpt-citation",
+    "google-ai-overviews",
+    "perplexity",
+    "gemini",
+    "copilot",
+    "content-discovery",
+    "kings-news",
+    "bhmarketer",
+    "citation-readiness",
+    "search-visibility"
+  ],
+  "author": "KingsNews.ai powered by BHMarketer",
+  "license": "MIT",
+  "homepage": "https://kingsnews.ai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kings-news/kings-news-ai-citation-tracker"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
