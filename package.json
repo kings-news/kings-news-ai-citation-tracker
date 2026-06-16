@@ -1,7 +1,7 @@
 {
   "name": "@kings-news/ai-citation-tracker",
   "version": "1.0.0",
-  "description": "Track how visible your press releases are across AI platforms, search engines, and the modern discovery ecosystem. Powered by KingsNews.ai",
+  "description": "Track how visible your press releases are across AI platforms, search engines, and the modern discovery ecosystem. Powered by Kingnewswire.co",
   "main": "index.js",
   "bin": {
     "ai-citation-tracker": "./index.js"
@@ -21,13 +21,12 @@
     "copilot",
     "content-discovery",
     "kings-news",
-    "bhmarketer",
     "citation-readiness",
     "search-visibility"
   ],
-  "author": "KingsNews.ai powered by BHMarketer",
+  "author": "Kingnewswire.co",
   "license": "MIT",
-  "homepage": "https://kingsnews.ai",
+  "homepage": "https://kingnewswire.co",
   "repository": {
     "type": "git",
     "url": "https://github.com/kings-news/kings-news-ai-citation-tracker"
