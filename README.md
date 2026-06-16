@@ -3,7 +3,7 @@
 [![npm](https://img.shields.io/npm/v/@kings-news/ai-citation-tracker)](https://npmjs.com/package/@kings-news/ai-citation-tracker)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
-Track how visible your press releases are across AI platforms, search engines, and the modern discovery ecosystem. Built by [KingsNews.ai](https://kingsnews.ai) powered by BHMarketer.
+Track how visible your press releases are across AI platforms, search engines, and the modern discovery ecosystem. Built by [Kingnewswire.co](https://kingnewswire.co/) 
 
 ## Features
 
@@ -124,7 +124,7 @@ AI Citation Tracker · Press Release Visibility · AI Search · ChatGPT Citation
 
 | Platform | URL |
 |----------|-----|
-| Website | https://kingsnews.ai |
+| Website | https://kingnewswire.co |
 | GitHub | https://github.com/kings-news/kings-news-ai-citation-tracker |
 | GitHub Pages | https://kings-news.github.io/kings-news-ai-citation-tracker/ |
 | NPM | https://npmjs.com/package/@kings-news/ai-citation-tracker |
@@ -135,8 +135,8 @@ AI Citation Tracker · Press Release Visibility · AI Search · ChatGPT Citation
 
 ## About Kings News
 
-Kings News AI Citation Tracker empowers organizations to measure, understand, and improve their visibility in the evolving world of AI-powered discovery — helping every press release achieve maximum reach and impact. Powered by BHMarketer.
+Kings News AI Citation Tracker empowers organizations to measure, understand, and improve their visibility in the evolving world of AI-powered discovery — helping every press release achieve maximum reach and impact. 
 
 ## License
 
-MIT — [KingsNews.ai](https://kingsnews.ai)
+MIT — [Kingnewswire.co](https://kingnewswire.co/)
